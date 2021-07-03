@@ -1,0 +1,18 @@
+[submodule "bash"]
+	path = bash
+	url = https://github.com/Abelha-io/bash.git
+[submodule "python"]
+	path = python
+	url = https://github.com/hivetools/python.git
+[submodule "tempered_pi"]
+	path = tempered_pi
+	url = https://github.com/hivetools/tempered_pi.git
+[submodule "apache"]
+	path = apache
+	url = https://github.com/hivetools/apache.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/hivetools/perl.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/hivetools/cron.git
